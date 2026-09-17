@@ -80,7 +80,7 @@ A production-grade mobile IDE for Android with native Claude AI integration.
 ## 📫 Get in Touch
 
 <p align="center">
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:alihosain4c@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/ali-hosain">
